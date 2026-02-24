@@ -21,17 +21,17 @@ body {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #1e1e1e;
-        color: #f4f4f4;
+        background-color: #2e2930;
+        color: #fdeff2;
     }
 
     footer {
-        border-top-color: #444;
-        color: #bbb;
+        border-top-color: #2e2930;
+        color: #fdeff2;
     }
 
     a {
-        color: #ddd;
+        color: #fdeff2;
     }
 }
 
